@@ -1,0 +1,10 @@
+# NAME: OpenAI
+# AUTHOR: MS
+# HOST: 1
+# HOST-SUFFIX: 5
+
+HOST-SUFFIX,aps.org,Journal
+HOST-SUFFIX,acs.org,Journal
+HOST-SUFFIX,sciencedirect.com,Journal
+HOST-SUFFIX,science.org,Journal
+HOST-SUFFIX,nature.com,Journal
